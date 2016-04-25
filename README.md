@@ -7,3 +7,5 @@ Flow Free is a addictive simple puzzle game. This game is available for both And
 The goal of this homework is to model this game as a constrained problem through ASP.
 
 This is homework is done during "Artificial Intelligence 2" course (2015/2016) at Sapienza University of Rome
+
+![Image1](https://lh3.ggpht.com/W4Q8dd8zjpdYe1KyV2t56QjJ_qgq299FzyGs4sZpFl50-vJ2SFNjM3cA1BGU32jqRp0=w300)
